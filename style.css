@@ -81,7 +81,7 @@ height: auto;
   display: flex;
   flex-direction: column;
 }
-.button1, button2, button3 {
+.button1, .button2, .button3 {
   width: 20vw;
   height: 10vw;
   border-radius: 2vw;
