@@ -1,0 +1,78 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.grid-container {
+  width: auto;
+  height: 100vh;
+  grid-template-columns: auto auto auto auto;
+  background: linear-gradient(0deg, #f1ded0ff 0%, rgba(256,0,0,0) 100%);
+  padding: 0;
+}
+
+.logo {
+  color: #123ddd;
+  padding: 1vw;
+  font-size: 30px;
+  text-align: left;
+}
+
+#logotipo-img {
+  width: 33.3vw;
+  height: auto;
+    /**webkit-box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.4);
+	-moz-box-shadow:   7px 7px 5px rgba(50, 50, 50, 0.4);
+	box-shadow:        7px 7px 5px rgba(50, 50, 50, 0.4);**/
+}
+
+#menu-img {
+width: 3.7vw;
+height: auto;
+margin-left: 92vw;
+}
+
+.titulo {
+  color: black;
+  font-family: monospace;
+  font-size: 5vw;
+
+}
+
+.navbar{
+  color: #123ddd;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.carrossel{
+  color: #123ddd;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.rodape {
+  color: #123ddd;
+  background-color: #111;
+  padding: 0px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-gap: 10px;
+  background-color: #fff;
+  color: #444;
+}
+
+.box {
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
