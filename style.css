@@ -82,43 +82,30 @@ height: auto;
   flex-direction: column;
 }
 .button1, button2, button3 {
+  width: 20vw;
+  height: 10vw;
+  border-radius: 2vw;
   border-style: solid;
   border-width: 1px;
+  border-color: #fff;
+  color: #ffffff;
+  box-shadow: 20px 10px 5px 0px rgba(0,0,0,0.55);
+ -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.55);
+ -moz-box-shadow: 20px 10px 5px 0px rgba(0,0,0,0.55);
 }
 
 .button1{
-  width: 20vw;
-  height: 10vw;
-  border-radius: 2vw;
-  border-color: #fff;
   margin: 1vw 0vw 1vw 0vw;
-  color: #ffffff;
   background-color: #3e3b9b;
-  box-shadow: 20px 10px 5px 0px rgba(0,0,0,0.55);
--webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.55);
--moz-box-shadow: 20px 10px 5px 0px rgba(0,0,0,0.55);
+
 }
 
 .button2{
-  width: 20vw;
-  height: 10vw;
-  border-radius: 2vw;
-  color: #ffffff;
   background-color: #d04382;
-  box-shadow: 20px 10px 5px 0px rgba(0,0,0,0.55);
- -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.55);
- -moz-box-shadow: 20px 10px 5px 0px rgba(0,0,0,0.55);
 }
 
 .button3{
-  width: 20vw;
-  height: 10vw;
-  border-radius: 2vw;
-  color: #fff;
   background-color: #43d094 ;
-  box-shadow: 20px 10px 5px 0px rgba(0,0,0,0.55);
- -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.55);
- -moz-box-shadow: 20px 10px 5px 0px rgba(0,0,0,0.55);
 }
 
 .image {
