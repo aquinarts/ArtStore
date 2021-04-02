@@ -81,6 +81,10 @@ height: auto;
   display: flex;
   flex-direction: column;
 }
+.button1 button2 button3 {
+  border-style: solid;
+  border-width: 5px;
+}
 
 .button1{
   width: 20vw;
