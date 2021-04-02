@@ -85,7 +85,7 @@ height: auto;
 .button1{
   width: 20vw;
   height: 10vw;
-  border-radius: 1vw;
+  border-radius: 2vw;
   border-color: #fff;
   margin: 1vw 0vw 1vw 0vw;
   color: #ffffff;
@@ -98,7 +98,7 @@ height: auto;
 .button2{
   width: 20vw;
   height: 10vw;
-  border-radius: 1vw;
+  border-radius: 2vw;
   color: #ffffff;
   background-color: #d04382;
   box-shadow: 20px 10px 5px 0px rgba(0,0,0,0.55);
@@ -109,7 +109,7 @@ height: auto;
 .button3{
   width: 20vw;
   height: 10vw;
-  border-radius: 1vw;
+  border-radius: 2vw;
   color: #fff;
   background-color: #43d094 ;
   box-shadow: 20px 10px 5px 0px rgba(0,0,0,0.55);
