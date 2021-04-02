@@ -83,8 +83,8 @@ height: auto;
 }
 
 .button1{
-  width: 15vw;
-  height: 6vw;
+  width: 20vw;
+  height: 10vw;
   border-radius: 1vw;
   border-color: #fff;
   margin: 1vw 0vw 1vw 0vw;
@@ -96,8 +96,8 @@ height: auto;
 }
 
 .button2{
-  width: 15vw;
-  height: 6vw;
+  width: 20vw;
+  height: 10vw;
   border-radius: 1vw;
   color: #ffffff;
   background-color: #d04382;
@@ -107,8 +107,8 @@ height: auto;
 }
 
 .button3{
-  width: 15vw;
-  height: 6vw;
+  width: 20vw;
+  height: 10vw;
   border-radius: 1vw;
   color: #fff;
   background-color: #43d094 ;
